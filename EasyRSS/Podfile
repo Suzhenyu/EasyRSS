@@ -7,4 +7,6 @@ target 'EasyRSS' do
 
   # Pods for EasyRSS
 
+  pod 'MWFeedParser'
+
 end
